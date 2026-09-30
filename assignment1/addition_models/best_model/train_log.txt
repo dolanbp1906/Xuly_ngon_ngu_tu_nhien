@@ -1,0 +1,9 @@
+Best addition LLaMA
+- dim=256, n_layers=4, n_heads=4, n_kv_heads=4
+- params: 3,219,200
+- test accuracy: 100% (10000 / 10000)
+
+Training notes:
+- Loss is computed only on tokens after '='. Token 0 is used as EOS so generation stops.
+- Extra unique addition pairs were added after the first run so the model learned carry patterns.
+- Best val loss ~ 0.0002

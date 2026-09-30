@@ -1,0 +1,9 @@
+Ablation summary (under-capacity runs, expected << 100%)
+
+ablation_1: dim=16, layers=1, heads=1, params=4400, 1 epoch, acc=0.0
+ablation_2: dim=32, layers=1, heads=2, params=13920, 1 epoch, acc=0.0
+ablation_3: dim=32, layers=2, heads=2, params=27360, 2 epochs
+ablation_4: dim=64, layers=2, heads=4, params=107968, 2 epochs
+ablation_5: dim=64, layers=4, heads=4, params=214976, 3 epochs
+
+best_model: dim=256, layers=4, heads=4, params=3219200, test acc=1.0

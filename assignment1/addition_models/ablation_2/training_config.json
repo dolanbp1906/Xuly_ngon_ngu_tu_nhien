@@ -1,0 +1,8 @@
+{
+    "capacity": 40000000,
+    "n_epochs": 1,
+    "batch_size": 64,
+    "save_dir": "addition_models/ablation_2",
+    "model_parameters": 13920,
+    "train_samples": 479
+}

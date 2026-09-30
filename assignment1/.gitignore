@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+stories42M.pt
+data/addition_train.txt
+data/addition_dev.txt
+data/_smoke_*.txt
+*.pt
+!addition_models/**/*.pth
+!sanity_check.data
