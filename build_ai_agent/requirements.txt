@@ -1,0 +1,4 @@
+langchain>=1.3
+langgraph>=1.2
+langchain-ollama
+langchain-community
