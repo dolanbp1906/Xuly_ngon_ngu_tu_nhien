@@ -1,0 +1,721 @@
+﻿occupation,rank,skill,n
+Buôn bán hải sản,1,Đàm phán giá cả,2328
+Buôn bán hải sản,2,Giao tiếp khách hàng,823
+Buôn bán hải sản,3,Phân loại hải sản,822
+Buôn bán hải sản,4,Đánh giá chất lượng hải sản,792
+Buôn bán hải sản,5,Quản lý kho hàng,669
+Buôn bán vùng biên,1,Đàm phán giá cả,1182
+Buôn bán vùng biên,2,Đàm phán thương mại,714
+Buôn bán vùng biên,3,Giao tiếp đa văn hóa,714
+Buôn bán vùng biên,4,Giao tiếp khách hàng,389
+Buôn bán vùng biên,5,Quản lý tồn kho,352
+Bác sĩ,1,Giao tiếp với bệnh nhân,1373
+Bác sĩ,2,Chẩn đoán lâm sàng,1228
+Bác sĩ,3,Chẩn đoán bệnh lý,1063
+Bác sĩ,4,Tư vấn sức khỏe,935
+Bác sĩ,5,Sử dụng thiết bị y tế,932
+Bán hàng online,1,Chụp ảnh sản phẩm,2400
+Bán hàng online,2,Quản lý đơn hàng online,2084
+Bán hàng online,3,Chăm sóc khách hàng,1939
+Bán hàng online,4,Giao tiếp khách hàng,1442
+Bán hàng online,5,Quản lý đơn hàng,1148
+Bán hàng rong,1,Giao tiếp khách hàng,8924
+Bán hàng rong,2,Thương lượng giá cả,3483
+Bán hàng rong,3,Quản lý thời gian,2802
+Bán hàng rong,4,Quản lý hàng hóa,2255
+Bán hàng rong,5,Quản lý hàng tồn kho,2246
+Bảo vệ tòa nhà,1,Xử lý tình huống khẩn cấp,663
+Bảo vệ tòa nhà,2,Giám sát an ninh,286
+Bảo vệ tòa nhà,3,Kiểm soát ra vào,221
+Bảo vệ tòa nhà,4,Giao tiếp với cư dân,219
+Bảo vệ tòa nhà,5,Ghi chép nhật ký trực,177
+Bộ đội biên phòng,1,Tuần tra biên giới,1011
+Bộ đội biên phòng,2,Xử lý tình huống khẩn cấp,931
+Bộ đội biên phòng,3,Sử dụng thiết bị liên lạc,477
+Bộ đội biên phòng,4,Giao tiếp cộng đồng,474
+Bộ đội biên phòng,5,Làm việc nhóm,353
+Chuyên viên marketing,1,Phân tích thị trường,2123
+Chuyên viên marketing,2,Viết nội dung sáng tạo,909
+Chuyên viên marketing,3,Xây dựng chiến lược truyền thông,692
+Chuyên viên marketing,4,Quản lý dự án,665
+Chuyên viên marketing,5,Phân tích dữ liệu thị trường,545
+Chuyên viên phân tích dữ liệu,1,Phân tích dữ liệu,2890
+Chuyên viên phân tích dữ liệu,2,Trực quan hóa thông tin,1407
+Chuyên viên phân tích dữ liệu,3,Tư duy logic,1208
+Chuyên viên phân tích dữ liệu,4,Trực quan hóa dữ liệu,755
+Chuyên viên phân tích dữ liệu,5,Phân tích dữ liệu định lượng,736
+Chăn nuôi gia cầm,1,Chăm sóc sức khỏe gia cầm,5560
+Chăn nuôi gia cầm,2,Quản lý chuồng trại,4146
+Chăn nuôi gia cầm,3,Phòng ngừa dịch bệnh,1373
+Chăn nuôi gia cầm,4,Chăm sóc gia cầm,1365
+Chăn nuôi gia cầm,5,Vệ sinh chuồng trại,940
+Chăn nuôi gia súc,1,Chăm sóc sức khỏe gia súc,5465
+Chăn nuôi gia súc,2,Quản lý chuồng trại,3338
+Chăn nuôi gia súc,3,Chăm sóc gia súc,1573
+Chăn nuôi gia súc,4,Vệ sinh chuồng trại,794
+Chăn nuôi gia súc,5,Phối trộn thức ăn chăn nuôi,684
+Chủ cửa hàng tạp hóa,1,Giao tiếp khách hàng,15378
+Chủ cửa hàng tạp hóa,2,Quản lý kho hàng,14323
+Chủ cửa hàng tạp hóa,3,Tính toán doanh thu,9215
+Chủ cửa hàng tạp hóa,4,Quản lý tồn kho,7592
+Chủ cửa hàng tạp hóa,5,Chăm sóc khách hàng,6332
+Chủ doanh nghiệp nhỏ,1,Quản trị doanh nghiệp nhỏ,71
+Chủ doanh nghiệp nhỏ,2,Phân tích thị trường,70
+Chủ doanh nghiệp nhỏ,3,Lập kế hoạch chiến lược,67
+Chủ doanh nghiệp nhỏ,4,Quản lý doanh nghiệp nhỏ,45
+Chủ doanh nghiệp nhỏ,5,Giải quyết vấn đề,42
+Chủ homestay,1,Quản lý vận hành homestay,2254
+Chủ homestay,2,Chăm sóc khách hàng,1814
+Chủ homestay,3,Quản lý homestay,1052
+Chủ homestay,4,Bảo trì cơ sở vật chất,471
+Chủ homestay,5,Giao tiếp khách hàng,350
+Chủ quán ăn,1,Quản lý vận hành quán ăn,9671
+Chủ quán ăn,2,Quản lý quán ăn,4208
+Chủ quán ăn,3,Giao tiếp khách hàng,3496
+Chủ quán ăn,4,Chăm sóc khách hàng,2577
+Chủ quán ăn,5,Giao tiếp và chăm sóc khách hàng,2021
+Cán bộ khuyến nông,1,Hướng dẫn kỹ thuật canh tác,262
+Cán bộ khuyến nông,2,Giao tiếp cộng đồng,193
+Cán bộ khuyến nông,3,Phân tích dữ liệu nông nghiệp,153
+Cán bộ khuyến nông,4,Quản lý dự án khuyến nông,123
+Cán bộ khuyến nông,5,Tư vấn kỹ thuật canh tác,79
+Cán bộ xã,1,Giao tiếp cộng đồng,602
+Cán bộ xã,2,Sử dụng phần mềm văn phòng,440
+Cán bộ xã,3,Quản lý hồ sơ hành chính,390
+Cán bộ xã,4,Xử lý hồ sơ hành chính,333
+Cán bộ xã,5,Giao tiếp với người dân,326
+Cán bộ đoàn thể,1,Tổ chức sự kiện cộng đồng,827
+Cán bộ đoàn thể,2,Tổ chức sự kiện,424
+Cán bộ đoàn thể,3,Lập kế hoạch hoạt động,221
+Cán bộ đoàn thể,4,Soạn thảo văn bản hành chính,208
+Cán bộ đoàn thể,5,Giao tiếp công chúng,193
+Công an viên xã,1,Giao tiếp cộng đồng,1148
+Công an viên xã,2,Giao tiếp với người dân,957
+Công an viên xã,3,Ghi chép hồ sơ,543
+Công an viên xã,4,Xử lý tình huống khẩn cấp,403
+Công an viên xã,5,Hòa giải mâu thuẫn,400
+Công nhân cao su,1,Chăm sóc cây cao su,1024
+Công nhân cao su,2,Khai thác mủ cao su,980
+Công nhân cao su,3,Quản lý thời gian làm việc,789
+Công nhân cao su,4,Thu hoạch mủ cao su,683
+Công nhân cao su,5,Cắt mủ cao su,676
+Công nhân chế biến thủy sản,1,Đóng gói sản phẩm,3013
+Công nhân chế biến thủy sản,2,Sơ chế thủy sản,2470
+Công nhân chế biến thủy sản,3,Vệ sinh an toàn thực phẩm,1807
+Công nhân chế biến thủy sản,4,Kiểm tra chất lượng,1668
+Công nhân chế biến thủy sản,5,Vận hành máy móc cơ bản,1333
+Công nhân chế biến thực phẩm,1,Kiểm tra chất lượng sản phẩm,3517
+Công nhân chế biến thực phẩm,2,Đóng gói sản phẩm,2985
+Công nhân chế biến thực phẩm,3,Vận hành máy móc chế biến,2327
+Công nhân chế biến thực phẩm,4,Vận hành máy đóng gói,1950
+Công nhân chế biến thực phẩm,5,Ghi chép nhật ký sản xuất,1593
+Công nhân cơ khí,1,Đọc bản vẽ kỹ thuật,13522
+Công nhân cơ khí,2,Kiểm tra chất lượng sản phẩm,6221
+Công nhân cơ khí,3,Vận hành máy cơ khí,5519
+Công nhân cơ khí,4,An toàn lao động,3701
+Công nhân cơ khí,5,Vận hành máy tiện,3491
+Công nhân dệt sợi,1,Vận hành máy dệt sợi,5331
+Công nhân dệt sợi,2,Kiểm tra chất lượng vải,1689
+Công nhân dệt sợi,3,Kiểm tra chất lượng sợi,1496
+Công nhân dệt sợi,4,Kiểm tra chất lượng sản phẩm,1122
+Công nhân dệt sợi,5,Vận hành máy dệt,1071
+Công nhân giày da,1,Kiểm tra chất lượng sản phẩm,4917
+Công nhân giày da,2,Cắt da chính xác,3146
+Công nhân giày da,3,Kiểm tra chất lượng,2307
+Công nhân giày da,4,Vận hành máy may công nghiệp,1030
+Công nhân giày da,5,Cắt da giày,855
+Công nhân khai khoáng,1,Vận hành máy khai thác,2251
+Công nhân khai khoáng,2,Bảo trì thiết bị cơ bản,848
+Công nhân khai khoáng,3,Kiểm tra an toàn thiết bị,790
+Công nhân khai khoáng,4,Vận hành máy móc khai thác,652
+Công nhân khai khoáng,5,Kiểm tra an toàn lao động,639
+Công nhân may,1,Vận hành máy may công nghiệp,12007
+Công nhân may,2,Kiểm tra chất lượng sản phẩm,9429
+Công nhân may,3,Đọc bản vẽ kỹ thuật,4389
+Công nhân may,4,Kiểm tra chất lượng đường may,3259
+Công nhân may,5,Quản lý thời gian làm việc,3045
+Công nhân thủy điện,1,Vận hành thiết bị thủy điện,873
+Công nhân thủy điện,2,Đọc bản vẽ kỹ thuật,767
+Công nhân thủy điện,3,Xử lý sự cố kỹ thuật,603
+Công nhân thủy điện,4,Vận hành máy phát điện,559
+Công nhân thủy điện,5,Bảo trì thiết bị cơ khí,390
+Công nhân điện tử,1,Lắp ráp linh kiện điện tử,13835
+Công nhân điện tử,2,Kiểm tra chất lượng sản phẩm,13413
+Công nhân điện tử,3,Sử dụng dụng cụ đo lường,3715
+Công nhân điện tử,4,Đọc bản vẽ kỹ thuật,3411
+Công nhân điện tử,5,Vận hành máy móc sản xuất,2747
+Công nhân đóng gói,1,Đóng gói sản phẩm,6143
+Công nhân đóng gói,2,Kiểm tra chất lượng,4422
+Công nhân đóng gói,3,Làm việc nhóm,2432
+Công nhân đóng gói,4,Quản lý thời gian,2416
+Công nhân đóng gói,5,Kiểm tra chất lượng sản phẩm,2345
+Dược sĩ,1,Kiểm tra tương tác thuốc,804
+Dược sĩ,2,Giao tiếp với bệnh nhân,724
+Dược sĩ,3,Tư vấn dược lâm sàng,533
+Dược sĩ,4,Quản lý kho dược phẩm,479
+Dược sĩ,5,Tư vấn sử dụng thuốc,466
+Dịch thuật tự do,1,Dịch thuật văn bản,1746
+Dịch thuật tự do,2,Quản lý thời gian,1060
+Dịch thuật tự do,3,Kiểm tra chính tả,581
+Dịch thuật tự do,4,Dịch thuật đa ngôn ngữ,284
+Dịch thuật tự do,5,Quản lý thời gian làm việc,280
+Gia sư / dạy thêm,1,Quản lý thời gian,602
+Gia sư / dạy thêm,2,Giao tiếp sư phạm,425
+Gia sư / dạy thêm,3,Giao tiếp hiệu quả,172
+Gia sư / dạy thêm,4,Lập kế hoạch bài giảng,142
+Gia sư / dạy thêm,5,Giảng dạy gia sư,138
+Giám đốc doanh nghiệp,1,Lãnh đạo đội nhóm,215
+Giám đốc doanh nghiệp,2,Quản trị doanh nghiệp,122
+Giám đốc doanh nghiệp,3,Quản trị chiến lược,105
+Giám đốc doanh nghiệp,4,Phân tích thị trường,100
+Giám đốc doanh nghiệp,5,Quản lý dự án,72
+Giám đốc điều hành,1,Lãnh đạo đội nhóm,202
+Giám đốc điều hành,2,Quản trị chiến lược,174
+Giám đốc điều hành,3,Phân tích dữ liệu,77
+Giám đốc điều hành,4,Quản lý dự án,63
+Giám đốc điều hành,5,Quản lý rủi ro,59
+Giáo viên THCS,1,Quản lý lớp học,2150
+Giáo viên THCS,2,Giao tiếp sư phạm,1180
+Giáo viên THCS,3,Quản lý lớp học hiệu quả,506
+Giáo viên THCS,4,Thiết kế bài giảng,498
+Giáo viên THCS,5,Tổ chức hoạt động ngoại khóa,341
+Giáo viên THPT,1,Quản lý lớp học,2010
+Giáo viên THPT,2,Giao tiếp sư phạm,1100
+Giáo viên THPT,3,Quản lý lớp học hiệu quả,578
+Giáo viên THPT,4,Thiết kế bài giảng,472
+Giáo viên THPT,5,Quản lý thời gian,416
+Giáo viên cắm bản,1,Quản lý lớp học,317
+Giáo viên cắm bản,2,Tổ chức hoạt động ngoại khóa,119
+Giáo viên cắm bản,3,Giao tiếp đa văn hóa,96
+Giáo viên cắm bản,4,Giao tiếp sư phạm,91
+Giáo viên cắm bản,5,Giao tiếp với phụ huynh,58
+Giáo viên mầm non,1,Quản lý lớp học,42
+Giáo viên mầm non,2,Giao tiếp với phụ huynh,38
+Giáo viên mầm non,3,Giáo dục mầm non,25
+Giáo viên mầm non,4,Giảng dạy mầm non,16
+Giáo viên mầm non,5,Chăm sóc sức khỏe trẻ em,15
+Giáo viên tiểu học,1,Quản lý lớp học,1753
+Giáo viên tiểu học,2,Giao tiếp sư phạm,985
+Giáo viên tiểu học,3,Giảng dạy tiểu học,778
+Giáo viên tiểu học,4,Giao tiếp với phụ huynh,504
+Giáo viên tiểu học,5,Thiết kế bài giảng,430
+Giảng viên đại học,1,Phân tích dữ liệu,481
+Giảng viên đại học,2,Giảng dạy đại học,477
+Giảng viên đại học,3,Nghiên cứu khoa học,343
+Giảng viên đại học,4,Quản lý lớp học,317
+Giảng viên đại học,5,Nghiên cứu thị trường,260
+Hướng dẫn viên du lịch,1,Xử lý tình huống khẩn cấp,854
+Hướng dẫn viên du lịch,2,Giao tiếp đa ngôn ngữ,628
+Hướng dẫn viên du lịch,3,Hướng dẫn viên du lịch,563
+Hướng dẫn viên du lịch,4,Giao tiếp đa văn hóa,561
+Hướng dẫn viên du lịch,5,Hướng dẫn du lịch,412
+Học sinh THPT,1,Quản lý thời gian,49
+Học sinh THPT,2,Quản lý thời gian học tập,26
+Học sinh THPT,3,Giao tiếp nhóm,24
+Học sinh THPT,4,Làm việc nhóm,24
+Học sinh THPT,5,Giao tiếp cơ bản,15
+Học viên cao học,1,Quản lý thời gian,26
+Học viên cao học,2,Nghiên cứu học thuật,25
+Học viên cao học,3,Phân tích dữ liệu,22
+Học viên cao học,4,Phân tích dữ liệu kinh tế,13
+Học viên cao học,5,Nghiên cứu thị trường,13
+Hộ sinh,1,Chăm sóc sản phụ,20
+Hộ sinh,2,Xử lý tình huống khẩn cấp,18
+Hộ sinh,3,Ghi chép hồ sơ bệnh án,16
+Hộ sinh,4,Sử dụng thiết bị y tế,12
+Hộ sinh,5,Quản lý hồ sơ bệnh án,12
+Kinh doanh online,1,Chăm sóc khách hàng,8474
+Kinh doanh online,2,Quản lý đơn hàng online,5429
+Kinh doanh online,3,Chụp ảnh sản phẩm,4864
+Kinh doanh online,4,Giao tiếp khách hàng,3467
+Kinh doanh online,5,Quản lý đơn hàng trực tuyến,3229
+Kế toán viên,1,Sử dụng phần mềm kế toán,6625
+Kế toán viên,2,Kế toán tổng hợp,5241
+Kế toán viên,3,Phân tích tài chính,3097
+Kế toán viên,4,Lập báo cáo tài chính,2735
+Kế toán viên,5,Kiểm soát chi phí,1876
+Kỹ sư chế biến thực phẩm,1,Kiểm soát chất lượng thực phẩm,428
+Kỹ sư chế biến thực phẩm,2,Phân tích dữ liệu sản xuất,176
+Kỹ sư chế biến thực phẩm,3,Quản lý quy trình sản xuất,111
+Kỹ sư chế biến thực phẩm,4,Quản lý quy trình chế biến,99
+Kỹ sư chế biến thực phẩm,5,Tối ưu hóa quy trình sản xuất,71
+Kỹ sư cơ khí,1,Đọc bản vẽ kỹ thuật,1394
+Kỹ sư cơ khí,2,Sử dụng phần mềm CAD,882
+Kỹ sư cơ khí,3,Kiểm tra chất lượng sản phẩm,806
+Kỹ sư cơ khí,4,Phân tích dữ liệu kỹ thuật,782
+Kỹ sư cơ khí,5,Thiết kế cơ khí,587
+Kỹ sư lâm nghiệp,1,Quản lý tài nguyên rừng,114
+Kỹ sư lâm nghiệp,2,Viết báo cáo kỹ thuật,75
+Kỹ sư lâm nghiệp,3,Quản lý dự án lâm nghiệp,65
+Kỹ sư lâm nghiệp,4,Sử dụng phần mềm GIS,56
+Kỹ sư lâm nghiệp,5,Phân tích dữ liệu sinh thái,56
+Kỹ sư môi trường,1,Phân tích dữ liệu môi trường,161
+Kỹ sư môi trường,2,Viết báo cáo kỹ thuật,133
+Kỹ sư môi trường,3,Đánh giá tác động môi trường,121
+Kỹ sư môi trường,4,Quản lý dự án xanh,66
+Kỹ sư môi trường,5,Sử dụng phần mềm GIS,45
+Kỹ sư mỏ - địa chất,1,Phân tích địa chất,390
+Kỹ sư mỏ - địa chất,2,Báo cáo kỹ thuật,106
+Kỹ sư mỏ - địa chất,3,Viết báo cáo kỹ thuật,84
+Kỹ sư mỏ - địa chất,4,Sử dụng phần mềm địa chất,71
+Kỹ sư mỏ - địa chất,5,Đọc bản đồ địa hình,69
+Kỹ sư nông nghiệp,1,Phân tích dữ liệu nông nghiệp,342
+Kỹ sư nông nghiệp,2,Quản lý dự án nông nghiệp,168
+Kỹ sư nông nghiệp,3,Viết báo cáo kỹ thuật,100
+Kỹ sư nông nghiệp,4,Phân tích đất đai,90
+Kỹ sư nông nghiệp,5,Lập kế hoạch canh tác,60
+Kỹ sư phần mềm,1,Phát triển phần mềm,1608
+Kỹ sư phần mềm,2,Phân tích hệ thống,1606
+Kỹ sư phần mềm,3,Quản lý dự án,1574
+Kỹ sư phần mềm,4,Giải quyết vấn đề,1099
+Kỹ sư phần mềm,5,Phân tích dữ liệu,1011
+Kỹ sư thủy lợi,1,Phân tích dữ liệu thủy văn,132
+Kỹ sư thủy lợi,2,Quản lý dự án xây dựng,130
+Kỹ sư thủy lợi,3,Sử dụng phần mềm CAD,128
+Kỹ sư thủy lợi,4,Viết báo cáo kỹ thuật,122
+Kỹ sư thủy lợi,5,Quản lý dự án thủy lợi,121
+Kỹ sư tự động hóa,1,Lập trình PLC,600
+Kỹ sư tự động hóa,2,Phân tích dữ liệu kỹ thuật,210
+Kỹ sư tự động hóa,3,Tối ưu hóa quy trình sản xuất,198
+Kỹ sư tự động hóa,4,Quản lý dự án kỹ thuật,183
+Kỹ sư tự động hóa,5,Bảo trì thiết bị công nghiệp,167
+Kỹ sư xây dựng,1,Đọc bản vẽ kỹ thuật,4313
+Kỹ sư xây dựng,2,Quản lý tiến độ thi công,2844
+Kỹ sư xây dựng,3,Giám sát thi công,2208
+Kỹ sư xây dựng,4,Sử dụng phần mềm CAD,2137
+Kỹ sư xây dựng,5,Kiểm tra chất lượng vật liệu,1870
+Kỹ sư điện,1,Đọc bản vẽ kỹ thuật,1173
+Kỹ sư điện,2,Kiểm tra an toàn điện,1124
+Kỹ sư điện,3,Thiết kế hệ thống điện,799
+Kỹ sư điện,4,Thiết kế mạch điện,587
+Kỹ sư điện,5,Phân tích mạch điện,565
+Kỹ thuật viên bảo trì,1,Đọc bản vẽ kỹ thuật,7655
+Kỹ thuật viên bảo trì,2,Sử dụng dụng cụ đo lường,6770
+Kỹ thuật viên bảo trì,3,Chẩn đoán sự cố kỹ thuật,4828
+Kỹ thuật viên bảo trì,4,Bảo trì thiết bị cơ khí,3379
+Kỹ thuật viên bảo trì,5,Bảo trì phòng ngừa,2792
+Kỹ thuật viên xét nghiệm,1,Phân tích mẫu bệnh phẩm,42
+Kỹ thuật viên xét nghiệm,2,Vận hành thiết bị xét nghiệm,37
+Kỹ thuật viên xét nghiệm,3,Xử lý mẫu bệnh phẩm,30
+Kỹ thuật viên xét nghiệm,4,Kiểm soát chất lượng phòng thí nghiệm,28
+Kỹ thuật viên xét nghiệm,5,Vận hành máy xét nghiệm,25
+Lao động phổ thông,1,Lao động phổ thông,5930
+Lao động phổ thông,2,Làm việc nhóm,3521
+Lao động phổ thông,3,Quản lý thời gian,3053
+Lao động phổ thông,4,Thích nghi nhanh,2584
+Lao động phổ thông,5,Vận hành máy móc cơ bản,2242
+Lao động thời vụ,1,Quản lý thời gian,1263
+Lao động thời vụ,2,Thích nghi nhanh,912
+Lao động thời vụ,3,Lao động phổ thông,761
+Lao động thời vụ,4,Làm việc nhóm,714
+Lao động thời vụ,5,Lao động chân tay,605
+Livestreamer,1,Quản lý thời gian,490
+Livestreamer,2,Tương tác với khán giả,383
+Livestreamer,3,Quản lý thời gian phát sóng,362
+Livestreamer,4,Xử lý tình huống,274
+Livestreamer,5,Giao tiếp trực tuyến,260
+Làm muối,1,Thu hoạch muối,443
+Làm muối,2,Quan sát thời tiết,268
+Làm muối,3,Bảo quản sản phẩm,207
+Làm muối,4,Bảo quản muối,188
+Làm muối,5,Thu hoạch muối thủ công,176
+Lái xe ôm,1,Giao tiếp khách hàng,2527
+Lái xe ôm,2,Giao tiếp với khách hàng,2389
+Lái xe ôm,3,Quản lý thời gian,2017
+Lái xe ôm,4,Lái xe an toàn,1920
+Lái xe ôm,5,Bảo dưỡng xe cơ bản,1743
+Lập trình tự do,1,Lập trình web,1885
+Lập trình tự do,2,Quản lý dự án tự do,1011
+Lập trình tự do,3,Tự học công nghệ mới,943
+Lập trình tự do,4,Quản lý thời gian,661
+Lập trình tự do,5,Giao tiếp khách hàng,643
+Lập trình viên,1,Lập trình ứng dụng,4711
+Lập trình viên,2,Phân tích dữ liệu,3927
+Lập trình viên,3,Phân tích hệ thống,3605
+Lập trình viên,4,Quản lý dự án,3520
+Lập trình viên,5,Giải quyết vấn đề,3143
+Nghiên cứu sinh,1,Viết báo cáo nghiên cứu,30
+Nghiên cứu sinh,2,Viết báo cáo khoa học,27
+Nghiên cứu sinh,3,Phân tích dữ liệu,21
+Nghiên cứu sinh,4,Sử dụng phần mềm thống kê,19
+Nghiên cứu sinh,5,Tư duy phản biện,19
+Nghiên cứu viên,1,Viết báo cáo nghiên cứu,591
+Nghiên cứu viên,2,Phân tích dữ liệu,375
+Nghiên cứu viên,3,Nghiên cứu thị trường,241
+Nghiên cứu viên,4,Sử dụng phần mềm thống kê,237
+Nghiên cứu viên,5,Viết báo cáo khoa học,229
+Nghỉ hưu,1,Nấu ăn truyền thống,17520
+Nghỉ hưu,2,Chăm sóc sức khỏe,16272
+Nghỉ hưu,3,Quản lý thời gian,15167
+Nghỉ hưu,4,Quản lý chi tiêu gia đình,12465
+Nghỉ hưu,5,Quản lý ngân sách gia đình,9592
+"Nghỉ hưu, làm thêm bán thời gian",1,Quản lý thời gian,5739
+"Nghỉ hưu, làm thêm bán thời gian",2,Nấu ăn truyền thống,4072
+"Nghỉ hưu, làm thêm bán thời gian",3,Chăm sóc sức khỏe,3120
+"Nghỉ hưu, làm thêm bán thời gian",4,Quản lý chi tiêu gia đình,2636
+"Nghỉ hưu, làm thêm bán thời gian",5,Giao tiếp cộng đồng,1955
+Ngư dân,1,Dự báo thời tiết biển,3022
+Ngư dân,2,Bảo quản hải sản,2134
+Ngư dân,3,Dự báo thời tiết,2003
+Ngư dân,4,Vận hành tàu thuyền,1583
+Ngư dân,5,Sửa chữa lưới đánh cá,1576
+Ngư dân đánh bắt xa bờ,1,Dự báo thời tiết biển,1676
+Ngư dân đánh bắt xa bờ,2,Vận hành tàu thuyền,907
+Ngư dân đánh bắt xa bờ,3,Bảo quản hải sản,837
+Ngư dân đánh bắt xa bờ,4,Điều khiển tàu thuyền,650
+Ngư dân đánh bắt xa bờ,5,Xử lý tình huống khẩn cấp,479
+Người nuôi trồng thủy sản,1,Quản lý chất lượng nước,3050
+Người nuôi trồng thủy sản,2,Chăm sóc thủy sản,1634
+Người nuôi trồng thủy sản,3,Kiểm tra chất lượng nước,1316
+Người nuôi trồng thủy sản,4,Quan sát chất lượng nước,655
+Người nuôi trồng thủy sản,5,Quản lý chất lượng nước ao nuôi,633
+Nhiếp ảnh tự do,1,Chụp ảnh chân dung,908
+Nhiếp ảnh tự do,2,Giao tiếp khách hàng,635
+Nhiếp ảnh tự do,3,Chỉnh sửa ảnh kỹ thuật số,569
+Nhiếp ảnh tự do,4,Xử lý hậu kỳ ảnh,328
+Nhiếp ảnh tự do,5,Quản lý thời gian,297
+Nhân viên an ninh sự kiện,1,Xử lý tình huống khẩn cấp,646
+Nhân viên an ninh sự kiện,2,Kiểm soát đám đông,144
+Nhân viên an ninh sự kiện,3,Quản lý an ninh sự kiện,124
+Nhân viên an ninh sự kiện,4,Sử dụng thiết bị an ninh,123
+Nhân viên an ninh sự kiện,5,Phối hợp nhóm,99
+Nhân viên bán hàng,1,Giao tiếp khách hàng,14614
+Nhân viên bán hàng,2,Tư vấn sản phẩm,7233
+Nhân viên bán hàng,3,Quản lý thời gian,5604
+Nhân viên bán hàng,4,Xử lý tình huống,5251
+Nhân viên bán hàng,5,Quản lý tồn kho,4745
+Nhân viên bưu điện,1,Giao tiếp khách hàng,2364
+Nhân viên bưu điện,2,Quản lý bưu kiện,795
+Nhân viên bưu điện,3,Sử dụng phần mềm bưu chính,757
+Nhân viên bưu điện,4,Quản lý thời gian,750
+Nhân viên bưu điện,5,Phân loại bưu phẩm,546
+Nhân viên bảo vệ,1,Xử lý tình huống khẩn cấp,1672
+Nhân viên bảo vệ,2,Giám sát an ninh,584
+Nhân viên bảo vệ,3,Ghi chép nhật ký trực,470
+Nhân viên bảo vệ,4,Giao tiếp ứng xử,352
+Nhân viên bảo vệ,5,Kiểm soát ra vào,315
+Nhân viên hành chính,1,Sử dụng phần mềm văn phòng,3531
+Nhân viên hành chính,2,Quản lý hồ sơ,3345
+Nhân viên hành chính,3,Giao tiếp nội bộ,3294
+Nhân viên hành chính,4,Soạn thảo văn bản,1563
+Nhân viên hành chính,5,Soạn thảo văn bản hành chính,1087
+Nhân viên hợp tác xã,1,Quản lý hồ sơ,492
+Nhân viên hợp tác xã,2,Giao tiếp cộng đồng,422
+Nhân viên hợp tác xã,3,Sử dụng phần mềm văn phòng,395
+Nhân viên hợp tác xã,4,Quản lý hồ sơ hợp tác xã,310
+Nhân viên hợp tác xã,5,Quản lý thời gian,294
+Nhân viên khách sạn,1,Quản lý thời gian,2456
+Nhân viên khách sạn,2,Giao tiếp khách hàng,1353
+Nhân viên khách sạn,3,Xử lý tình huống,1054
+Nhân viên khách sạn,4,Xử lý tình huống khẩn cấp,840
+Nhân viên khách sạn,5,Xử lý tình huống phát sinh,659
+Nhân viên kinh doanh,1,Giao tiếp khách hàng,2018
+Nhân viên kinh doanh,2,Phân tích thị trường,1825
+Nhân viên kinh doanh,3,Quản lý thời gian,1729
+Nhân viên kinh doanh,4,Quản lý quan hệ khách hàng,1280
+Nhân viên kinh doanh,5,Đàm phán hợp đồng,1136
+Nhân viên lễ tân,1,Giao tiếp khách hàng,4423
+Nhân viên lễ tân,2,Quản lý thời gian,4074
+Nhân viên lễ tân,3,Xử lý tình huống,2579
+Nhân viên lễ tân,4,Xử lý tình huống phát sinh,2408
+Nhân viên lễ tân,5,Sử dụng phần mềm văn phòng,1983
+Nhân viên ngân hàng,1,Giao tiếp khách hàng,1058
+Nhân viên ngân hàng,2,Sử dụng phần mềm ngân hàng,582
+Nhân viên ngân hàng,3,Phân tích tài chính,344
+Nhân viên ngân hàng,4,Phân tích rủi ro tín dụng,326
+Nhân viên ngân hàng,5,Xử lý giao dịch ngân hàng,317
+Nhân viên nhân sự,1,Quản lý hồ sơ nhân sự,2716
+Nhân viên nhân sự,2,Giao tiếp nội bộ,1514
+Nhân viên nhân sự,3,Hỗ trợ tuyển dụng,644
+Nhân viên nhân sự,4,Sử dụng phần mềm văn phòng,623
+Nhân viên nhân sự,5,Giải quyết xung đột,577
+Nhân viên phục vụ nhà hàng,1,Quản lý thời gian,13271
+Nhân viên phục vụ nhà hàng,2,Giao tiếp khách hàng,8197
+Nhân viên phục vụ nhà hàng,3,Xử lý tình huống,7939
+Nhân viên phục vụ nhà hàng,4,Phục vụ khách hàng,6451
+Nhân viên phục vụ nhà hàng,5,Làm việc nhóm,5317
+Nhân viên spa - làm đẹp,1,Giao tiếp khách hàng,5172
+Nhân viên spa - làm đẹp,2,Massage thư giãn,5063
+Nhân viên spa - làm đẹp,3,Chăm sóc da cơ bản,3178
+Nhân viên spa - làm đẹp,4,Chăm sóc da chuyên sâu,3069
+Nhân viên spa - làm đẹp,5,Quản lý thời gian,2301
+Nhân viên vệ sinh,1,Quản lý thời gian,3292
+Nhân viên vệ sinh,2,Vệ sinh môi trường,2548
+Nhân viên vệ sinh,3,Vệ sinh công nghiệp,1760
+Nhân viên vệ sinh,4,Phân loại rác thải,1633
+Nhân viên vệ sinh,5,Quản lý thời gian làm việc,1345
+Nhân viên y tế cơ sở,1,Tư vấn sức khỏe cộng đồng,419
+Nhân viên y tế cơ sở,2,Quản lý hồ sơ bệnh án,415
+Nhân viên y tế cơ sở,3,Giao tiếp với bệnh nhân,282
+Nhân viên y tế cơ sở,4,Phân tích dữ liệu y tế,172
+Nhân viên y tế cơ sở,5,Sử dụng phần mềm y tế,139
+Nhân viên y tế thôn bản,1,Tư vấn sức khỏe cộng đồng,486
+Nhân viên y tế thôn bản,2,Sơ cứu khẩn cấp,328
+Nhân viên y tế thôn bản,3,Quản lý hồ sơ bệnh án,260
+Nhân viên y tế thôn bản,4,Quản lý hồ sơ y tế,234
+Nhân viên y tế thôn bản,5,Giao tiếp cộng đồng,224
+Nuôi ong lấy mật,1,Chăm sóc đàn ong,1724
+Nuôi ong lấy mật,2,Thu hoạch mật ong,1491
+Nuôi ong lấy mật,3,Bảo quản sản phẩm,460
+Nuôi ong lấy mật,4,Bảo quản mật ong,395
+Nuôi ong lấy mật,5,Quản lý đàn ong,333
+Nông dân trồng cây ăn trái,1,Chăm sóc cây ăn trái,8479
+Nông dân trồng cây ăn trái,2,Phòng trừ sâu bệnh,4427
+Nông dân trồng cây ăn trái,3,Bón phân hữu cơ,3790
+Nông dân trồng cây ăn trái,4,Quản lý vườn cây,1637
+Nông dân trồng cây ăn trái,5,Thu hoạch trái cây,1352
+Nông dân trồng lúa,1,Canh tác lúa nước,8309
+Nông dân trồng lúa,2,Chăm sóc cây trồng,3264
+Nông dân trồng lúa,3,Phòng trừ sâu bệnh,2461
+Nông dân trồng lúa,4,Dự báo thời tiết,2419
+Nông dân trồng lúa,5,Quản lý nguồn nước,1657
+Nội trợ kiêm bán hàng online,1,Quản lý đơn hàng online,867
+Nội trợ kiêm bán hàng online,2,Chụp ảnh sản phẩm,808
+Nội trợ kiêm bán hàng online,3,Giao tiếp khách hàng,724
+Nội trợ kiêm bán hàng online,4,Nấu ăn truyền thống,514
+Nội trợ kiêm bán hàng online,5,Chăm sóc khách hàng,474
+Nội trợ toàn thời gian,1,Quản lý ngân sách gia đình,3789
+Nội trợ toàn thời gian,2,Quản lý chi tiêu gia đình,1753
+Nội trợ toàn thời gian,3,Nấu ăn truyền thống,1179
+Nội trợ toàn thời gian,4,Chăm sóc sức khỏe người cao tuổi,1105
+Nội trợ toàn thời gian,5,Lên thực đơn dinh dưỡng,1002
+Pha chế / barista,1,Pha chế cà phê,5285
+Pha chế / barista,2,Giao tiếp khách hàng,5092
+Pha chế / barista,3,Quản lý nguyên liệu,3568
+Pha chế / barista,4,Pha chế đồ uống,2637
+Pha chế / barista,5,Vệ sinh an toàn thực phẩm,2336
+Quản lý cửa hàng,1,Quản lý vận hành cửa hàng,244
+Quản lý cửa hàng,2,Phân tích dữ liệu kinh doanh,79
+Quản lý cửa hàng,3,Giao tiếp khách hàng,61
+Quản lý cửa hàng,4,Lập kế hoạch chiến lược,59
+Quản lý cửa hàng,5,Phân tích dữ liệu bán hàng,47
+Quản trị fanpage,1,Viết nội dung sáng tạo,629
+Quản trị fanpage,2,Thiết kế hình ảnh cơ bản,572
+Quản trị fanpage,3,Quản trị trang mạng xã hội,540
+Quản trị fanpage,4,Phân tích dữ liệu tương tác,520
+Quản trị fanpage,5,Xử lý khủng hoảng truyền thông,508
+Shipper giao hàng,1,Giao tiếp khách hàng,3895
+Shipper giao hàng,2,Quản lý thời gian,2850
+Shipper giao hàng,3,Giao tiếp với khách hàng,1560
+Shipper giao hàng,4,Xử lý tình huống,1172
+Shipper giao hàng,5,Bảo quản hàng hóa,1144
+Sinh viên cao đẳng,1,Quản lý thời gian,1453
+Sinh viên cao đẳng,2,Làm việc nhóm,1251
+Sinh viên cao đẳng,3,Quản lý thời gian học tập,770
+Sinh viên cao đẳng,4,Nghiên cứu tài liệu,720
+Sinh viên cao đẳng,5,Sử dụng phần mềm văn phòng,663
+Sinh viên đại học,1,Quản lý thời gian,6102
+Sinh viên đại học,2,Làm việc nhóm,4254
+Sinh viên đại học,3,Nghiên cứu tài liệu,3767
+Sinh viên đại học,4,Giao tiếp nhóm,2441
+Sinh viên đại học,5,Quản lý thời gian học tập,2113
+Sáng tạo nội dung số,1,Sáng tạo nội dung số,1584
+Sáng tạo nội dung số,2,Nghiên cứu xu hướng,1362
+Sáng tạo nội dung số,3,Quản lý mạng xã hội,1273
+Sáng tạo nội dung số,4,Quản lý thời gian,887
+Sáng tạo nội dung số,5,Chỉnh sửa video,773
+Thiết kế tự do,1,Thiết kế đồ họa,2820
+Thiết kế tự do,2,Giao tiếp khách hàng,1594
+Thiết kế tự do,3,Quản lý dự án tự do,1136
+Thiết kế tự do,4,Quản lý thời gian,1082
+Thiết kế tự do,5,Sử dụng phần mềm Adobe,980
+Thiết kế đồ họa tự do,1,Thiết kế đồ họa,2780
+Thiết kế đồ họa tự do,2,Giao tiếp khách hàng,1596
+Thiết kế đồ họa tự do,3,Quản lý thời gian,1155
+Thiết kế đồ họa tự do,4,Sử dụng phần mềm Adobe,1111
+Thiết kế đồ họa tự do,5,Quản lý dự án tự do,1077
+Thú y viên,1,Chẩn đoán bệnh lý thú y,321
+Thú y viên,2,Chẩn đoán bệnh thú y,217
+Thú y viên,3,Quản lý hồ sơ bệnh án,211
+Thú y viên,4,Tiêm phòng và chăm sóc sức khỏe,160
+Thú y viên,5,Tư vấn dinh dưỡng vật nuôi,116
+Thư ký / trợ lý,1,Quản lý lịch trình,1805
+Thư ký / trợ lý,2,Soạn thảo văn bản,1723
+Thư ký / trợ lý,3,Giao tiếp nội bộ,1233
+Thư ký / trợ lý,4,Sử dụng phần mềm văn phòng,1132
+Thư ký / trợ lý,5,Quản lý thời gian,547
+Thương lái nông sản,1,Đàm phán giá cả,3358
+Thương lái nông sản,2,Đánh giá chất lượng nông sản,2745
+Thương lái nông sản,3,Thương lượng giá cả,861
+Thương lái nông sản,4,Quản lý chuỗi cung ứng,743
+Thương lái nông sản,5,Phân loại nông sản,718
+Thợ bạc / kim hoàn,1,Thiết kế trang sức,839
+Thợ bạc / kim hoàn,2,Đánh bóng bề mặt,660
+Thợ bạc / kim hoàn,3,Chế tác trang sức bạc,598
+Thợ bạc / kim hoàn,4,Gia công bạc,554
+Thợ bạc / kim hoàn,5,Đánh bóng kim loại,439
+Thợ cắt tóc - gội đầu,1,Cắt tóc nam nữ,5775
+Thợ cắt tóc - gội đầu,2,Tư vấn kiểu tóc,5485
+Thợ cắt tóc - gội đầu,3,Gội đầu dưỡng sinh,5114
+Thợ cắt tóc - gội đầu,4,Giao tiếp khách hàng,3292
+Thợ cắt tóc - gội đầu,5,Chăm sóc da đầu,3175
+Thợ dệt thổ cẩm,1,Dệt thổ cẩm,2324
+Thợ dệt thổ cẩm,2,Phối màu vải,676
+Thợ dệt thổ cẩm,3,Dệt vải thổ cẩm,629
+Thợ dệt thổ cẩm,4,Quản lý thời gian,541
+Thợ dệt thổ cẩm,5,Dệt thổ cẩm truyền thống,529
+Thợ hàn,1,Đọc bản vẽ kỹ thuật,2384
+Thợ hàn,2,An toàn lao động,1648
+Thợ hàn,3,Kiểm tra chất lượng mối hàn,1107
+Thợ hàn,4,Hàn TIG,876
+Thợ hàn,5,Vận hành máy hàn,684
+Thợ làm bánh,1,Kiểm soát nhiệt độ lò nướng,1840
+Thợ làm bánh,2,Quản lý nguyên liệu,981
+Thợ làm bánh,3,Điều chỉnh nhiệt độ lò nướng,674
+Thợ làm bánh,4,Nhào bột và tạo hình bánh,566
+Thợ làm bánh,5,Trang trí bánh,478
+Thợ may đo,1,Tư vấn phong cách,1572
+Thợ may đo,2,Cắt vải theo mẫu,1544
+Thợ may đo,3,Tư vấn kiểu dáng,1399
+Thợ may đo,4,May vá chi tiết,1259
+Thợ may đo,5,Cắt vải chính xác,1230
+Thợ mộc,1,Đọc bản vẽ kỹ thuật,773
+Thợ mộc,2,Hoàn thiện bề mặt gỗ,403
+Thợ mộc,3,Lắp ráp nội thất,377
+Thợ mộc,4,Sửa chữa đồ gỗ cũ,289
+Thợ mộc,5,Sử dụng dụng cụ thủ công,274
+Thợ nước,1,Sửa chữa đường ống nước,1409
+Thợ nước,2,Lắp đặt thiết bị vệ sinh,955
+Thợ nước,3,Đọc bản vẽ kỹ thuật,559
+Thợ nước,4,Đọc bản vẽ kỹ thuật cơ bản,328
+Thợ nước,5,Lắp đặt đường ống nước,276
+Thợ rèn,1,Rèn sắt thủ công,763
+Thợ rèn,2,Gia công kim loại,482
+Thợ rèn,3,Đọc bản vẽ kỹ thuật,400
+Thợ rèn,4,Bảo dưỡng dụng cụ,236
+Thợ rèn,5,Sửa chữa dụng cụ,220
+Thợ sơn,1,Xử lý bề mặt tường,476
+Thợ sơn,2,Pha màu sơn chính xác,443
+Thợ sơn,3,Pha màu sơn,310
+Thợ sơn,4,Chuẩn bị bề mặt tường,235
+Thợ sơn,5,Sử dụng máy phun sơn,209
+Thợ sửa xe máy,1,Bảo dưỡng định kỳ,4240
+Thợ sửa xe máy,2,Chẩn đoán lỗi động cơ,4072
+Thợ sửa xe máy,3,Thay thế phụ tùng,3528
+Thợ sửa xe máy,4,Sửa chữa động cơ xe máy,2657
+Thợ sửa xe máy,5,Sửa chữa hệ thống điện,1527
+Thợ thủ công mỹ nghệ,1,Chạm khắc gỗ,328
+Thợ thủ công mỹ nghệ,2,Quản lý thời gian,253
+Thợ thủ công mỹ nghệ,3,Thủ công mỹ nghệ,245
+Thợ thủ công mỹ nghệ,4,Thiết kế sản phẩm thủ công,188
+Thợ thủ công mỹ nghệ,5,Thiết kế sản phẩm,169
+Thợ xây,1,Đọc bản vẽ kỹ thuật,1718
+Thợ xây,2,An toàn lao động,930
+Thợ xây,3,Thi công xây dựng,870
+Thợ xây,4,Xây tường gạch,743
+Thợ xây,5,Tính toán vật liệu,611
+Thợ điện,1,Kiểm tra an toàn điện,1266
+Thợ điện,2,Lắp đặt hệ thống điện,1033
+Thợ điện,3,Lắp đặt hệ thống điện dân dụng,909
+Thợ điện,4,Đọc bản vẽ kỹ thuật,892
+Thợ điện,5,Sửa chữa sự cố điện,468
+Tiểu thương chợ,1,Giao tiếp khách hàng,14316
+Tiểu thương chợ,2,Đàm phán giá cả,13076
+Tiểu thương chợ,3,Quản lý tồn kho,11616
+Tiểu thương chợ,4,Thương lượng giá cả,9446
+Tiểu thương chợ,5,Giao tiếp với khách hàng,4852
+Trưởng phòng,1,Quản lý dự án,327
+Trưởng phòng,2,Phân tích dữ liệu,201
+Trưởng phòng,3,Giải quyết vấn đề,171
+Trưởng phòng,4,Lãnh đạo đội nhóm,158
+Trưởng phòng,5,Lập kế hoạch chiến lược,96
+Trồng cao su,1,Chăm sóc cây cao su,2247
+Trồng cao su,2,Khai thác mủ cao su,1283
+Trồng cao su,3,Thu hoạch mủ cao su,1061
+Trồng cao su,4,Quản lý vườn cây,1022
+Trồng cao su,5,Chăm sóc cây trồng,853
+Trồng chè,1,Chăm sóc cây chè,3648
+Trồng chè,2,Thu hoạch chè,1263
+Trồng chè,3,Chăm sóc vườn chè,1120
+Trồng chè,4,Phòng trừ sâu bệnh,929
+Trồng chè,5,Quản lý vườn chè,792
+Trồng cà phê,1,Chăm sóc cây cà phê,6675
+Trồng cà phê,2,Phòng trừ sâu bệnh,2781
+Trồng cà phê,3,Bón phân hữu cơ,2212
+Trồng cà phê,4,Quản lý vườn cây,1200
+Trồng cà phê,5,Thu hoạch và sơ chế,1197
+Trồng hoa - cây cảnh,1,Chăm sóc cây cảnh,2837
+Trồng hoa - cây cảnh,2,Phòng trừ sâu bệnh,1830
+Trồng hoa - cây cảnh,3,Nhân giống cây trồng,1070
+Trồng hoa - cây cảnh,4,Nhân giống hoa,932
+Trồng hoa - cây cảnh,5,Bón phân hữu cơ,911
+Trồng hồ tiêu / điều,1,Chăm sóc cây hồ tiêu,2882
+Trồng hồ tiêu / điều,2,Phòng trừ sâu bệnh,2232
+Trồng hồ tiêu / điều,3,Bón phân hữu cơ,1756
+Trồng hồ tiêu / điều,4,Chăm sóc cây điều,1416
+Trồng hồ tiêu / điều,5,Thu hoạch nông sản,742
+Trồng lúa nương,1,Canh tác lúa nương,3760
+Trồng lúa nương,2,Chăm sóc cây trồng,1758
+Trồng lúa nương,3,Dự báo thời tiết,1113
+Trồng lúa nương,4,Quản lý đất đai,479
+Trồng lúa nương,5,Phòng trừ sâu bệnh,474
+Trồng rau màu,1,Phòng trừ sâu bệnh,1629
+Trồng rau màu,2,Chăm sóc rau màu,1465
+Trồng rau màu,3,Chăm sóc cây trồng,1250
+Trồng rau màu,4,Canh tác rau màu,1143
+Trồng rau màu,5,Bón phân hữu cơ,1005
+Trồng rừng / khai thác lâm sản,1,Khai thác lâm sản,1616
+Trồng rừng / khai thác lâm sản,2,Khai thác lâm sản bền vững,892
+Trồng rừng / khai thác lâm sản,3,Trồng và chăm sóc rừng,874
+Trồng rừng / khai thác lâm sản,4,Khai thác lâm sản an toàn,813
+Trồng rừng / khai thác lâm sản,5,Trồng rừng,711
+Trợ lý nghiên cứu,1,Viết báo cáo nghiên cứu,56
+Trợ lý nghiên cứu,2,Phân tích dữ liệu,40
+Trợ lý nghiên cứu,3,Sử dụng phần mềm thống kê,40
+Trợ lý nghiên cứu,4,Quản lý thời gian,39
+Trợ lý nghiên cứu,5,Sử dụng phần mềm văn phòng,32
+Tài xế công nghệ,1,Lái xe an toàn,3803
+Tài xế công nghệ,2,Giao tiếp khách hàng,2912
+Tài xế công nghệ,3,Bảo dưỡng xe cơ bản,2671
+Tài xế công nghệ,4,Quản lý thời gian,2612
+Tài xế công nghệ,5,Giao tiếp với khách hàng,1569
+Tài xế taxi,1,Lái xe an toàn,1519
+Tài xế taxi,2,Bảo dưỡng xe cơ bản,1439
+Tài xế taxi,3,Xử lý tình huống giao thông,1054
+Tài xế taxi,4,Giao tiếp khách hàng,995
+Tài xế taxi,5,Quản lý thời gian,908
+Tài xế xe khách,1,Lái xe khách an toàn,2014
+Tài xế xe khách,2,Giao tiếp với hành khách,1582
+Tài xế xe khách,3,Xử lý tình huống khẩn cấp,1374
+Tài xế xe khách,4,Bảo dưỡng xe cơ bản,1290
+Tài xế xe khách,5,Xử lý tình huống giao thông,1017
+Tài xế xe tải,1,Bảo dưỡng xe cơ bản,2511
+Tài xế xe tải,2,Lái xe tải an toàn,1643
+Tài xế xe tải,3,Xử lý tình huống khẩn cấp,1371
+Tài xế xe tải,4,Lái xe tải hạng nặng,1361
+Tài xế xe tải,5,Lái xe tải đường dài,1260
+Tư vấn tự do,1,Quản lý thời gian,902
+Tư vấn tự do,2,Lắng nghe chủ động,703
+Tư vấn tự do,3,Giao tiếp hiệu quả,611
+Tư vấn tự do,4,Tư vấn khách hàng,514
+Tư vấn tự do,5,Giải quyết vấn đề,402
+Viết nội dung tự do,1,Viết nội dung sáng tạo,1617
+Viết nội dung tự do,2,Quản lý thời gian,1548
+Viết nội dung tự do,3,Nghiên cứu thị trường,939
+Viết nội dung tự do,4,Nghiên cứu thông tin,881
+Viết nội dung tự do,5,Viết nội dung tự do,575
+Vừa nghỉ việc,1,Quản lý thời gian,1430
+Vừa nghỉ việc,2,Thích nghi nhanh,774
+Vừa nghỉ việc,3,Quản lý thời gian cá nhân,673
+Vừa nghỉ việc,4,Giải quyết vấn đề,554
+Vừa nghỉ việc,5,Giao tiếp hiệu quả,502
+Đang tìm việc làm,1,Quản lý thời gian,4433
+Đang tìm việc làm,2,Thích nghi nhanh,2613
+Đang tìm việc làm,3,Giao tiếp cơ bản,1807
+Đang tìm việc làm,4,Làm việc nhóm,1647
+Đang tìm việc làm,5,Quản lý thời gian cá nhân,1639
+Điều dưỡng viên,1,Chăm sóc bệnh nhân,608
+Điều dưỡng viên,2,Xử lý tình huống khẩn cấp,481
+Điều dưỡng viên,3,Giao tiếp y tế,338
+Điều dưỡng viên,4,Theo dõi chỉ số sinh tồn,307
+Điều dưỡng viên,5,Giao tiếp với bệnh nhân,290
+Đại lý phân phối,1,Giao tiếp khách hàng,4175
+Đại lý phân phối,2,Đàm phán giá cả,2790
+Đại lý phân phối,3,Quản lý kho hàng,2538
+Đại lý phân phối,4,Chăm sóc khách hàng,2512
+Đại lý phân phối,5,Đàm phán hợp đồng,2251
+Đầu bếp,1,Quản lý nguyên liệu,4409
+Đầu bếp,2,Chế biến món ăn,2481
+Đầu bếp,3,Nêm nếm gia vị,1624
+Đầu bếp,4,Quản lý bếp,1607
+Đầu bếp,5,Kiểm soát nhiệt độ bếp,1485

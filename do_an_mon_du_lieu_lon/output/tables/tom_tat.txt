@@ -1,0 +1,7 @@
+Số hồ sơ: 1,000,000
+Giới tính:
+  - Nữ: 514,414 (51.44%)
+  - Nam: 485,586 (48.56%)
+So sánh nhóm theo vùng và nghề:
+  - duckdb: 0.034 giây, 860 nhóm, RSS 658.4 MB
+  - pandas: 0.217 giây, 860 nhóm, RSS 364.5 MB

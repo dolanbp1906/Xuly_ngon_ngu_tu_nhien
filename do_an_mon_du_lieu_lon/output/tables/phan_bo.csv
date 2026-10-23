@@ -1,0 +1,17 @@
+﻿dimension,value,n,pct
+sex,Nữ,514414,51.44
+sex,Nam,485586,48.56
+zone,Nông Thôn,613549,61.35
+zone,Đô Thị,386451,38.65
+region,Đồng bằng sông Hồng,244920,24.49
+region,Đông Nam Bộ,207799,20.78
+region,Bắc Trung Bộ và Duyên hải miền Trung,176229,17.62
+region,Đồng bằng sông Cửu Long,154958,15.5
+region,Trung du và miền núi phía Bắc,124326,12.43
+region,Tây Nguyên,91768,9.18
+age_group,35-44,215776,21.58
+age_group,25-34,202650,20.26
+age_group,45-54,184680,18.47
+age_group,55-64,144819,14.48
+age_group,65+,132899,13.29
+age_group,18-24,119176,11.92

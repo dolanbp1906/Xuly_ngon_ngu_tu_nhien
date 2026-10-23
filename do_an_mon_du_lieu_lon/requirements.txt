@@ -1,0 +1,7 @@
+datasets>=2.18
+huggingface_hub>=0.23
+pyarrow>=14
+pandas>=2.0
+duckdb>=1.1
+matplotlib>=3.7
+psutil>=5.9

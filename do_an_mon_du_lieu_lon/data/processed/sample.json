@@ -1,0 +1,32 @@
+[
+  {
+    "sex": "Nam",
+    "age": 43,
+    "marital_status": "Đã kết hôn",
+    "education_level": "Trung học phổ thông",
+    "occupation": "Nhân viên khách sạn",
+    "zone": "Đô Thị",
+    "region": "Đồng bằng sông Cửu Long",
+    "skills_and_expertise_list": "[\"Kiểm tra phòng ốc\", \"Đón tiếp khách\", \"Sắp xếp không gian\", \"Xử lý tình huống\", \"Quản lý thời gian\", \"Thái độ phục vụ\"]"
+  },
+  {
+    "sex": "Nam",
+    "age": 46,
+    "marital_status": "Đã kết hôn",
+    "education_level": "Đại học",
+    "occupation": "Chủ cửa hàng tạp hóa",
+    "zone": "Nông Thôn",
+    "region": "Đồng bằng sông Cửu Long",
+    "skills_and_expertise_list": "[\"Quản lý tồn kho\", \"Chăm sóc khách hàng\", \"Tính toán dòng tiền\", \"Bảo trì thiết bị cơ bản\", \"Giao tiếp và đàm phán\"]"
+  },
+  {
+    "sex": "Nữ",
+    "age": 29,
+    "marital_status": "Đã kết hôn",
+    "education_level": "Trung học phổ thông",
+    "occupation": "Quản lý cửa hàng",
+    "zone": "Đô Thị",
+    "region": "Đông Nam Bộ",
+    "skills_and_expertise_list": "[\"Quản lý nhân sự\", \"Kiểm kê hàng tồn kho\", \"Xử lý khủng hoảng\", \"Sử dụng phần mềm bán lẻ\", \"Giao tiếp khách hàng\"]"
+  }
+]

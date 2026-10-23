@@ -1,0 +1,18 @@
+{
+  "dataset": "nvidia/Nemotron-Personas-Vietnam",
+  "url": "https://huggingface.co/datasets/nvidia/Nemotron-Personas-Vietnam",
+  "license": "CC-BY-4.0",
+  "extracted_at": "2026-10-21T16:16:21.324156+00:00",
+  "rows": 1000000,
+  "columns": [
+    "sex",
+    "age",
+    "marital_status",
+    "education_level",
+    "occupation",
+    "zone",
+    "region",
+    "skills_and_expertise_list"
+  ],
+  "note": "Hồ sơ nhân khẩu tổng hợp, phân bố neo theo Niên giám thống kê Việt Nam 2024."
+}
